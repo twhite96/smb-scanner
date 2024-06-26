@@ -5,7 +5,7 @@ import socket
 import urllib3
 import os
 from os.path import exists
-import datetim
+import datetime
 import textwrap
 import sys
 
