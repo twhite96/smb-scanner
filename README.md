@@ -9,9 +9,13 @@
 
 ## Badges
 
-![GitHub followers](https://img.shields.io/github/followers/twhite96?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/110494047736700791?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&logo=mastodon&logoColor=white&label=%40tiff%20on%20Infosec%20Exchange&labelColor=white&color=%2310B981)
-![Static Badge](https://img.shields.io/badge/PGP-728E_9212_5304_2C89_FF79%C2%A0_5463_A720_CEE5_FA60_40F4-10B981?style=for-the-badge&logoColor=black&labelColor=white)
+<p align="center">
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/twhite96?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white"> &nbsp; &nbsp;
+  <img alt="Infosec Exchange Followers" src="https://img.shields.io/mastodon/follow/110494047736700791?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&logo=mastodon&logoColor=white&label=%40tiff%20on%20Infosec%20Exchange&labelColor=white&color=%2310B981"> &nbsp;&nbsp;
+  <img alt="PGO" src="https://img.shields.io/badge/PGP-728E_9212_5304_2C89_FF79%C2%A0_5463_A720_CEE5_FA60_40F4-10B981?style=for-the-badge&logoColor=black&labelColor=white">
+
+</p>
+
 
 ## Acknowledgements
 
