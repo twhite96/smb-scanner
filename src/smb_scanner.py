@@ -8,6 +8,8 @@ from os.path import exists
 import datetime
 import textwrap
 import sys
+import getpass
+
 
 global domain
 
@@ -34,3 +36,12 @@ def options():
         Fore.YELLOW + Style.BRIGHT,
         Fore.RED + Style.BRIGHT,
     )
+
+
+def get_os_type():
+    if sys.platform.startswith("win32"):
+        getpass.getuser()
+    elif sys.platform.startswith("dariwn"):
+        pass
+    elif sys.platform.startswith("linux"):
+        pass
